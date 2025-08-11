@@ -8,7 +8,7 @@ At **Oracle Cloud Infrastructure**, I spent 3 years working on **high-availabili
 Since starting my master's, I’ve been diving deeper into:  
 - **Distributed Systems** — secure, fault-tolerant architectures  
 - **System Design & APIs** — designing for scalability & maintainability  
-- **Open Source Development** — contributing to projects like **Apache Iceberg**, **Reflect Diary**, and **Codecademy Docs**  
+- **Open Source Development** — A budding contributor testing waters across various libraries I use directly or indirectly :)  
 
 When I’m not coding, you’ll probably find me:  
 - 🍳 Meal-prepping something wholesome  
